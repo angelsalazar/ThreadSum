@@ -1,3 +1,7 @@
+/**
+ * Multi-threading sum
+ * @author Angel Salazar (A00513236)
+ */
 public class Main {
 
     /**

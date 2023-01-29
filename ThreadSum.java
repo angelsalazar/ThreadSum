@@ -1,6 +1,7 @@
 /**
  * ThreadSum 
  * sums an slice of the given arrays
+ * @author Angel Salazar (A00513236)
  */
 public class ThreadSum extends Thread {
     // holds the sum of the array a and b
